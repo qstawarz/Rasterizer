@@ -1,5 +1,5 @@
-RASTERIZER_5
-
+Raserizer
+Graphics Rasterizer Pipeline from triangle drawing to light with the sdl function to draw a pixel.
 
 Team : Enzo Fusco - Elouan Haquin - Quentin Stawarz
 
